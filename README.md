@@ -1,4 +1,5 @@
-# Autojump Puppet Module for Boxen
+# autojump Puppet Module for Boxen
+Don't know what autojump is? Read more about it [here](https://github.com/joelthelion/autojump).
 
 ## Usage
 
