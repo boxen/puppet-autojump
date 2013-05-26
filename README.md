@@ -1,6 +1,8 @@
 # autojump Puppet Module for Boxen
 Don't know what autojump is? Read more about it [here](https://github.com/joelthelion/autojump).
 
+[![Build Status](https://travis-ci.org/boxen/puppet-autojump.png)](https://travis-ci.org/boxen/puppet-autojump)
+
 ## Usage
 
 ```puppet
